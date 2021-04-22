@@ -1,16 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-<details>
-  <summary>Some ideas</summary>
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-</details>
+<p>My name is Junnel and I am currently in Web Design and Development at NAIT. I came from Philippines and I want to show some projects I am currently working on!</p>
 
 ### Github Stats
 
@@ -24,7 +14,8 @@
 
 ### Technologies & Tools
 
-[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&color=ffffff)](https://code.visualstudio.com)
+[![OS](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows&color=ffffff)](https://www.microsoft.com/en-ca/software-download/windows10)
 
 <!--
 **JCrucillo2/JCrucillo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
