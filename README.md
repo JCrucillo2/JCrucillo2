@@ -8,10 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCrucillo2&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/JCrucillo2/JCrucillo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCrucillo2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Junnel's GitHub Stats" />
-</a>
-
 ## 🔧 Technologies & Tools
 
 [![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
